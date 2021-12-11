@@ -1,0 +1,953 @@
+{
+    "$id": 0,
+    "$type": "0|MapsExt.CustomMap, MapsExtended",
+    "id": "c820453f-2040-4a1f-ae05-e44a711c9b2e",
+    "name": "Ni_Town_E1",
+    "mapObjects": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
+        "$rlength": 41,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|MapsExt.MapObjects.Ground, MapsExtended",
+                "active": true,
+                "position": {
+                    "$type": "3|UnityEngine.Vector3, UnityEngine.CoreModule",
+                    0.25,
+                    6.25,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    62,
+                    1,
+                    2
+                },
+                "rotation": {
+                    "$type": "4|UnityEngine.Quaternion, UnityEngine.CoreModule",
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 3,
+                "$type": 2,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    0.25,
+                    -9.25,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    62,
+                    1,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 4,
+                "$type": 2,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    0,
+                    -20.125,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    62,
+                    0.75,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 5,
+                "$type": "5|MapsExt.MapObjects.Spawn, MapsExtended",
+                "active": true,
+                "id": 0,
+                "teamID": 0,
+                "position": {
+                    "$type": 3,
+                    -25,
+                    -6.25,
+                    0
+                }
+            },
+            {
+                "$id": 6,
+                "$type": 5,
+                "active": true,
+                "id": 1,
+                "teamID": 1,
+                "position": {
+                    "$type": 3,
+                    25,
+                    -6.5,
+                    0
+                }
+            },
+            {
+                "$id": 7,
+                "$type": 5,
+                "active": true,
+                "id": 2,
+                "teamID": 2,
+                "position": {
+                    "$type": 3,
+                    0,
+                    9,
+                    0
+                }
+            },
+            {
+                "$id": 8,
+                "$type": 5,
+                "active": true,
+                "id": 3,
+                "teamID": 3,
+                "position": {
+                    "$type": 3,
+                    0,
+                    -17.25,
+                    0
+                }
+            },
+            {
+                "$id": 9,
+                "$type": "6|MapsExt.MapObjects.Box, MapsExtended",
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -14.5,
+                    -7.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 10,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -12.25,
+                    -7.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 11,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -13.5,
+                    -4.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    4,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 12,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -10,
+                    -7.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 13,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -11,
+                    -4.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    4,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 14,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -10.25,
+                    -1.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 15,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -12.5,
+                    -1.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 16,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -14.75,
+                    -1.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 17,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -13.75,
+                    0.25,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 18,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -11.25,
+                    0.25,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 19,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -12.5,
+                    2.25,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 20,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -24.75,
+                    10.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    4,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 21,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -24.75,
+                    13.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    4,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 22,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -24.75,
+                    7.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    4,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 23,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    25.25,
+                    10.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    4,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 24,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    25.25,
+                    13.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    4,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 25,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    25.25,
+                    7.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    4,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 26,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    25,
+                    -15.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    4,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 27,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    25,
+                    -12.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    4,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 28,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    25,
+                    -18.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    4,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 29,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -25,
+                    -15.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    4,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 30,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -25,
+                    -12.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    4,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 31,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -25,
+                    -18.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    4,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 32,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    12,
+                    -1.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 33,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    14.25,
+                    -1.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 34,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    13.5,
+                    -4.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    4,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 35,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    11,
+                    -4.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    4,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 36,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    14.5,
+                    -7.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 37,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    9.75,
+                    -1.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 38,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    12.25,
+                    -7.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 39,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    13.25,
+                    0.25,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 40,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    10.75,
+                    0.25,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 41,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    12,
+                    2.25,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 42,
+                "$type": 6,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    10,
+                    -7.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            }
+        ]
+    }
+}
