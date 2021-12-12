@@ -1,12 +1,12 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "206a7531-d7b7-4500-896d-11c8d084e3a2",
-    "name": "Ni_Pendulum",
+    "id": "04a1b771-9cd0-4b69-9e08-8b0893205a0f",
+    "name": "Ni_PendulemFix",
     "mapObjects": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
-        "$rlength": 76,
+        "$rlength": 82,
         "$rcontent": [
             {
                 "$id": 2,
@@ -144,13 +144,13 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    24.5719585,
-                    19.9757671,
+                    26.5165043,
+                    21.9203129,
                     -3
                 },
                 "scale": {
                     "$type": 3,
-                    6.75,
+                    12.25,
                     6.5,
                     2
                 },
@@ -192,14 +192,14 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    -24.3951855,
-                    20.1525421,
+                    -26.3397312,
+                    22.0970879,
                     -3
                 },
                 "scale": {
                     "$type": 3,
                     6.75,
-                    6.5,
+                    12,
                     2
                 },
                 "rotation": {
@@ -932,8 +932,8 @@
                 },
                 "endPosition": {
                     "$type": 3,
-                    21.75,
-                    21.25,
+                    21.7500038,
+                    21.2500019,
                     -3
                 }
             },
@@ -949,8 +949,8 @@
                 },
                 "endPosition": {
                     "$type": 3,
-                    -22,
-                    22,
+                    -22.0000019,
+                    22.0000019,
                     -3
                 }
             },
@@ -1567,6 +1567,122 @@
                 "scale": {
                     "$type": 3,
                     7.499998,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    -0.382683456,
+                    0.9238795
+                }
+            },
+            {
+                "$id": 78,
+                "$type": 5,
+                "active": true,
+                "startPosition": {
+                    "$type": 3,
+                    -35.25,
+                    6,
+                    -3
+                },
+                "endPosition": {
+                    "$type": 3,
+                    -29.75,
+                    4.5,
+                    -3
+                }
+            },
+            {
+                "$id": 79,
+                "$type": 5,
+                "active": true,
+                "startPosition": {
+                    "$type": 3,
+                    -35.25,
+                    -8.75,
+                    -3
+                },
+                "endPosition": {
+                    "$type": 3,
+                    -29.75,
+                    -9.75,
+                    -3
+                }
+            },
+            {
+                "$id": 80,
+                "$type": 5,
+                "active": true,
+                "startPosition": {
+                    "$type": 3,
+                    29.75,
+                    4.5,
+                    -3
+                },
+                "endPosition": {
+                    "$type": 3,
+                    35.25,
+                    6,
+                    -3
+                }
+            },
+            {
+                "$id": 81,
+                "$type": 5,
+                "active": true,
+                "startPosition": {
+                    "$type": 3,
+                    29.75,
+                    -9.75,
+                    -3
+                },
+                "endPosition": {
+                    "$type": 3,
+                    35.25,
+                    -8.5,
+                    -3
+                }
+            },
+            {
+                "$id": 82,
+                "$type": 2,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -27.0468349,
+                    28.4610481,
+                    0
+                },
+                "scale": {
+                    "$type": 3,
+                    3,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0.382683456,
+                    0.9238795
+                }
+            },
+            {
+                "$id": 83,
+                "$type": 2,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    27.4003868,
+                    28.46105,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    3,
                     2,
                     2
                 },
