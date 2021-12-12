@@ -8,7 +8,7 @@ All maps fittet for 8 Spawns.</br>
 **Ni_Rooftops** - Extended platfrom from the furthest buildings and indentet the building it extends to.</br>
 **Ni_Rotation** - Added 2 new spheres.</br>
 **Ni_StickFight** - Opended both fists up so you wont get stuck under the sticks.</br>
-**Ni_TableFight** - Move table down to encourage more combat from the lower spawns, Made 2 platforms for more spawn points.</br>
+**Ni_TableFight** - Move table down to encourage more combat, Made 2 platforms for more spawn points.</br>
 **Ni_3Level** - Made from Ni_Town_E1 to make it encourage better gameplay.</br>
 **Ni_Tower** - Ni_Town_E2 prop overhaul, Extended platforms at the bottom under the map.</br>
 
