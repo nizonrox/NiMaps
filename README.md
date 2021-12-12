@@ -2,6 +2,13 @@
 ROUNDS Custom maps (Focusing on Deathmatch compatibilty)
 
 # ChangeLog
+
+**1.2.0** </br>
+**Ni_BoxHouses** - Aligned middle, Extended platforms at the bottom so you dont get stuck under them by mistake.</br>
+**Ni_Pacright** - New map focused on the old pacman map layout. Fittet with 8 spawns.</br>
+
+
+
 **1.1.0** </br>
 **Ni_Escalator** - Added another passage from top layer and bottom layer.</br>
 **Ni_Pendulum** - Added 1 more rope to each breakable passage, Added protection to hidden props above.</br>
