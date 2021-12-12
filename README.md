@@ -11,3 +11,15 @@ ROUNDS Custom maps (Focusing on Deathmatch compatibilty)
 
 **1.0.0**
 Initial Release
+
+
+
+# Credits / Stolen assets / Thanks for letting me take it :)
+Ni_StickFight  | Fishermen-FishMaps Monkey</br>
+Ni_Rotation  | Fishermen-FishMaps Pachinko</br>
+Ni_SmashArena  | willuwontu-WillsWackyMaps Battlefield</br>
+Ni_Kidneystones  | XeddarRoundsTeam-XeddarsMaps TopplingTrees</br>
+Ni_Storm  | Zenith-SuperSmashMapsN64 DreamLand</br>
+Ni_Rooftops  | Zenith-ZenithMaps Skylines</br>
+
+If you are not okey with this contact me and i will remove the map.
