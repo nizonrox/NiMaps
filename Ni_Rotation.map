@@ -2,7 +2,7 @@
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
     "id": "ac54d458-8fc8-48c9-8d5d-0d02bf52bcfe",
-    "name": "Ni_RotationFix",
+    "name": "Ni_Rotation",
     "mapObjects": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
