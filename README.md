@@ -2,12 +2,20 @@
 ROUNDS Custom maps (Focusing on Deathmatch compatibilty)
 
 # ChangeLog
+**1.3.1** </br>
+All maps fittet for 8 Spawns.</br>
+**Ni_Kidneystones** - Added 2 Platforms for more cover.</br>
+**Ni_Rooftops** - Extended platfrom from the furthest buildings and indentet the building it extends to.</br>
+**Ni_Rotation** - Added 2 new spheres.</br>
+**Ni_StickFight** - Opended both fists up so you wont get stuck under the sticks.</br>
+**Ni_TableFight** - Move table down to encourage more combat from the lower spawns, Made 2 platforms for more spawn points.</br>
+**Ni_3Level** - Made from Ni_Town_E1 to make it encourage better gameplay.</br>
+**Ni_Tower** - Ni_Town_E2 prop overhaul, Extended platforms at the bottom under the map.</br>
+
 
 **1.2.0** </br>
 **Ni_BoxHouses** - Aligned middle, Extended platforms at the bottom so you dont get stuck under them by mistake.</br>
 **Ni_Pacright** - New map focused on the old pacman map layout. Fittet with 8 spawns.</br>
-
-
 
 **1.1.0** </br>
 **Ni_Escalator** - Added another passage from top layer and bottom layer.</br>
@@ -29,4 +37,4 @@ Ni_Kidneystones  | XeddarRoundsTeam-XeddarsMaps TopplingTrees</br>
 Ni_Storm  | Zenith-SuperSmashMapsN64 DreamLand</br>
 Ni_Rooftops  | Zenith-ZenithMaps Skylines</br>
 
-If you are not okey with this contact me and i will remove the map.
+If you are not okey with this contact me and I will remove the map.
