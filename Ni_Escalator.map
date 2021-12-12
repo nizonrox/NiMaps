@@ -2,7 +2,7 @@
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
     "id": "f12096c6-a823-4f3c-b688-168e22b38ba0",
-    "name": "Escalatorfix",
+    "name": "Ni_Escalator",
     "mapObjects": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
