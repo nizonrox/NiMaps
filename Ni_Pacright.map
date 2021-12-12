@@ -1,12 +1,12 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "3d2849f1-d859-4e75-a491-b22a80dd76fa",
+    "id": "f5a8126d-d651-461c-9b0d-21b4df7603e5",
     "name": "Ni_Pacright",
     "mapObjects": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
-        "$rlength": 108,
+        "$rlength": 110,
         "$rcontent": [
             {
                 "$id": 2,
@@ -2510,6 +2510,54 @@
                     9.75,
                     -14,
                     0
+                }
+            },
+            {
+                "$id": 110,
+                "$type": 2,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    1.04166985,
+                    19.75,
+                    0
+                },
+                "scale": {
+                    "$type": 3,
+                    84.58334,
+                    3,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 111,
+                "$type": 2,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    1,
+                    -21.5,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    84.5,
+                    3.5,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
                 }
             }
         ]

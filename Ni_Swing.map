@@ -1,12 +1,12 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "d0702a41-0283-4a82-9273-ee331473249f",
+    "id": "b76c3ada-d756-4832-aefb-adcaf7296545",
     "name": "Ni_Swing",
     "mapObjects": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
-        "$rlength": 64,
+        "$rlength": 68,
         "$rcontent": [
             {
                 "$id": 2,
@@ -1463,6 +1463,58 @@
                     0,
                     -0.1305262,
                     0.9914449
+                }
+            },
+            {
+                "$id": 66,
+                "$type": 6,
+                "active": true,
+                "id": 4,
+                "teamID": 4,
+                "position": {
+                    "$type": 3,
+                    -0.25,
+                    -18,
+                    0
+                }
+            },
+            {
+                "$id": 67,
+                "$type": 6,
+                "active": true,
+                "id": 5,
+                "teamID": 5,
+                "position": {
+                    "$type": 3,
+                    -13.75,
+                    -15.25,
+                    0
+                }
+            },
+            {
+                "$id": 68,
+                "$type": 6,
+                "active": true,
+                "id": 6,
+                "teamID": 6,
+                "position": {
+                    "$type": 3,
+                    13.25,
+                    -14.75,
+                    0
+                }
+            },
+            {
+                "$id": 69,
+                "$type": 6,
+                "active": true,
+                "id": 7,
+                "teamID": 7,
+                "position": {
+                    "$type": 3,
+                    -0.25,
+                    -0.25,
+                    0
                 }
             }
         ]

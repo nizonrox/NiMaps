@@ -1,12 +1,12 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "d4928838-481f-4205-abeb-641aaa3af2f2",
+    "id": "4354e797-b418-42a4-aee4-26bab2c5822c",
     "name": "Ni_Storm",
     "mapObjects": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
-        "$rlength": 56,
+        "$rlength": 60,
         "$rcontent": [
             {
                 "$id": 2,
@@ -1306,6 +1306,58 @@
                     0,
                     0,
                     1
+                }
+            },
+            {
+                "$id": 58,
+                "$type": 6,
+                "active": true,
+                "id": 4,
+                "teamID": 4,
+                "position": {
+                    "$type": 3,
+                    -12.5,
+                    15.5,
+                    0
+                }
+            },
+            {
+                "$id": 59,
+                "$type": 6,
+                "active": true,
+                "id": 5,
+                "teamID": 5,
+                "position": {
+                    "$type": 3,
+                    11.5,
+                    16.25,
+                    0
+                }
+            },
+            {
+                "$id": 60,
+                "$type": 6,
+                "active": true,
+                "id": 6,
+                "teamID": 6,
+                "position": {
+                    "$type": 3,
+                    -13,
+                    0.25,
+                    0
+                }
+            },
+            {
+                "$id": 61,
+                "$type": 6,
+                "active": true,
+                "id": 7,
+                "teamID": 7,
+                "position": {
+                    "$type": 3,
+                    12.25,
+                    0.25,
+                    0
                 }
             }
         ]

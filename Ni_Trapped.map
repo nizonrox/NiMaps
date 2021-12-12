@@ -1,12 +1,12 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "7dd040e1-8150-4298-b4fa-d1e457d2583f",
+    "id": "c466e723-29f5-47c1-933a-d4b550af110b",
     "name": "Ni_Trapped",
     "mapObjects": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
-        "$rlength": 37,
+        "$rlength": 41,
         "$rcontent": [
             {
                 "$id": 2,
@@ -16,7 +16,7 @@
                     "$type": "3|UnityEngine.Vector3, UnityEngine.CoreModule",
                     25.0139065,
                     -15.29118,
-                    0
+                    -3
                 },
                 "scale": {
                     "$type": 3,
@@ -40,7 +40,7 @@
                     "$type": 3,
                     7.4505806E-08,
                     15.5,
-                    0
+                    -3
                 },
                 "scale": {
                     "$type": 3,
@@ -88,7 +88,7 @@
                     "$type": 3,
                     0,
                     -6,
-                    0
+                    -3
                 },
                 "scale": {
                     "$type": 3,
@@ -112,7 +112,7 @@
                     "$type": 3,
                     0,
                     -6,
-                    0
+                    -3
                 },
                 "scale": {
                     "$type": 3,
@@ -150,7 +150,7 @@
                 "position": {
                     "$type": 3,
                     19.25,
-                    2.25,
+                    2.5,
                     0
                 }
             },
@@ -236,7 +236,7 @@
                     "$type": 3,
                     0,
                     -21,
-                    0
+                    -3
                 },
                 "scale": {
                     "$type": 3,
@@ -500,7 +500,7 @@
                     "$type": 3,
                     0.25,
                     19.375,
-                    0
+                    -3
                 },
                 "scale": {
                     "$type": 3,
@@ -812,7 +812,7 @@
                     "$type": 3,
                     0,
                     17.25,
-                    0
+                    -3
                 },
                 "scale": {
                     "$type": 3,
@@ -850,6 +850,58 @@
                     0,
                     0,
                     1
+                }
+            },
+            {
+                "$id": 39,
+                "$type": 5,
+                "active": true,
+                "id": 4,
+                "teamID": 4,
+                "position": {
+                    "$type": 3,
+                    -6.75,
+                    -3.25,
+                    0
+                }
+            },
+            {
+                "$id": 40,
+                "$type": 5,
+                "active": true,
+                "id": 5,
+                "teamID": 5,
+                "position": {
+                    "$type": 3,
+                    6.5,
+                    -3.25,
+                    0
+                }
+            },
+            {
+                "$id": 41,
+                "$type": 5,
+                "active": true,
+                "id": 6,
+                "teamID": 6,
+                "position": {
+                    "$type": 3,
+                    -6.75,
+                    -10.5,
+                    0
+                }
+            },
+            {
+                "$id": 42,
+                "$type": 5,
+                "active": true,
+                "id": 7,
+                "teamID": 7,
+                "position": {
+                    "$type": 3,
+                    6.5,
+                    -10.5,
+                    0
                 }
             }
         ]

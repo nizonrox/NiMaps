@@ -1,12 +1,12 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "04a1b771-9cd0-4b69-9e08-8b0893205a0f",
+    "id": "f4abdbd9-7333-464e-982b-20a4babcc609",
     "name": "Ni_Pendulum",
     "mapObjects": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
-        "$rlength": 82,
+        "$rlength": 86,
         "$rcontent": [
             {
                 "$id": 2,
@@ -780,7 +780,7 @@
                 "teamID": 0,
                 "position": {
                     "$type": 3,
-                    -24.25,
+                    -28.25,
                     -5.75,
                     0
                 }
@@ -793,7 +793,7 @@
                 "teamID": 1,
                 "position": {
                     "$type": 3,
-                    24,
+                    28.25,
                     -5.75,
                     0
                 }
@@ -806,8 +806,8 @@
                 "teamID": 2,
                 "position": {
                     "$type": 3,
-                    -24,
-                    8.75,
+                    -28.25,
+                    8.5,
                     0
                 }
             },
@@ -819,7 +819,7 @@
                 "teamID": 3,
                 "position": {
                     "$type": 3,
-                    24,
+                    28.5,
                     8.5,
                     0
                 }
@@ -932,8 +932,8 @@
                 },
                 "endPosition": {
                     "$type": 3,
-                    21.7500038,
-                    21.2500019,
+                    21.7500057,
+                    21.2500057,
                     -3
                 }
             },
@@ -1052,6 +1052,122 @@
             },
             {
                 "$id": 56,
+                "$type": 5,
+                "active": true,
+                "startPosition": {
+                    "$type": 3,
+                    -35.25,
+                    6,
+                    -3
+                },
+                "endPosition": {
+                    "$type": 3,
+                    -29.75,
+                    4.5,
+                    -3
+                }
+            },
+            {
+                "$id": 57,
+                "$type": 5,
+                "active": true,
+                "startPosition": {
+                    "$type": 3,
+                    -35.25,
+                    -8.75,
+                    -3
+                },
+                "endPosition": {
+                    "$type": 3,
+                    -29.75,
+                    -9.75,
+                    -3
+                }
+            },
+            {
+                "$id": 58,
+                "$type": 5,
+                "active": true,
+                "startPosition": {
+                    "$type": 3,
+                    29.75,
+                    4.5,
+                    -3
+                },
+                "endPosition": {
+                    "$type": 3,
+                    35.25,
+                    6,
+                    -3
+                }
+            },
+            {
+                "$id": 59,
+                "$type": 5,
+                "active": true,
+                "startPosition": {
+                    "$type": 3,
+                    29.75,
+                    -9.75,
+                    -3
+                },
+                "endPosition": {
+                    "$type": 3,
+                    35.25,
+                    -8.5,
+                    -3
+                }
+            },
+            {
+                "$id": 60,
+                "$type": 2,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -27.0468349,
+                    28.4610481,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    3,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0.382683456,
+                    0.9238795
+                }
+            },
+            {
+                "$id": 61,
+                "$type": 2,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    27.4003868,
+                    28.46105,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    3,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    -0.382683456,
+                    0.9238795
+                }
+            },
+            {
+                "$id": 62,
                 "$type": "8|MapsExt.MapObjects.BoxDestructible, MapsExtended",
                 "active": true,
                 "position": {
@@ -1075,7 +1191,7 @@
                 }
             },
             {
-                "$id": 57,
+                "$id": 63,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -1099,7 +1215,7 @@
                 }
             },
             {
-                "$id": 58,
+                "$id": 64,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -1123,7 +1239,7 @@
                 }
             },
             {
-                "$id": 59,
+                "$id": 65,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -1147,7 +1263,7 @@
                 }
             },
             {
-                "$id": 60,
+                "$id": 66,
                 "$type": "9|MapsExt.MapObjects.Box, MapsExtended",
                 "active": true,
                 "position": {
@@ -1171,7 +1287,7 @@
                 }
             },
             {
-                "$id": 61,
+                "$id": 67,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1195,7 +1311,7 @@
                 }
             },
             {
-                "$id": 62,
+                "$id": 68,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1219,7 +1335,7 @@
                 }
             },
             {
-                "$id": 63,
+                "$id": 69,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1243,7 +1359,7 @@
                 }
             },
             {
-                "$id": 64,
+                "$id": 70,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1267,7 +1383,7 @@
                 }
             },
             {
-                "$id": 65,
+                "$id": 71,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1291,7 +1407,7 @@
                 }
             },
             {
-                "$id": 66,
+                "$id": 72,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1315,7 +1431,7 @@
                 }
             },
             {
-                "$id": 67,
+                "$id": 73,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1339,7 +1455,7 @@
                 }
             },
             {
-                "$id": 68,
+                "$id": 74,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1363,7 +1479,7 @@
                 }
             },
             {
-                "$id": 69,
+                "$id": 75,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1387,7 +1503,7 @@
                 }
             },
             {
-                "$id": 70,
+                "$id": 76,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1411,7 +1527,7 @@
                 }
             },
             {
-                "$id": 71,
+                "$id": 77,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1435,7 +1551,7 @@
                 }
             },
             {
-                "$id": 72,
+                "$id": 78,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1459,7 +1575,7 @@
                 }
             },
             {
-                "$id": 73,
+                "$id": 79,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1483,7 +1599,7 @@
                 }
             },
             {
-                "$id": 74,
+                "$id": 80,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -1507,7 +1623,7 @@
                 }
             },
             {
-                "$id": 75,
+                "$id": 81,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1531,7 +1647,7 @@
                 }
             },
             {
-                "$id": 76,
+                "$id": 82,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -1555,7 +1671,7 @@
                 }
             },
             {
-                "$id": 77,
+                "$id": 83,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1579,119 +1695,55 @@
                 }
             },
             {
-                "$id": 78,
-                "$type": 5,
+                "$id": 84,
+                "$type": 6,
                 "active": true,
-                "startPosition": {
-                    "$type": 3,
-                    -35.25,
-                    6,
-                    -3
-                },
-                "endPosition": {
-                    "$type": 3,
-                    -29.75,
-                    4.5,
-                    -3
-                }
-            },
-            {
-                "$id": 79,
-                "$type": 5,
-                "active": true,
-                "startPosition": {
-                    "$type": 3,
-                    -35.25,
-                    -8.75,
-                    -3
-                },
-                "endPosition": {
-                    "$type": 3,
-                    -29.75,
-                    -9.75,
-                    -3
-                }
-            },
-            {
-                "$id": 80,
-                "$type": 5,
-                "active": true,
-                "startPosition": {
-                    "$type": 3,
-                    29.75,
-                    4.5,
-                    -3
-                },
-                "endPosition": {
-                    "$type": 3,
-                    35.25,
-                    6,
-                    -3
-                }
-            },
-            {
-                "$id": 81,
-                "$type": 5,
-                "active": true,
-                "startPosition": {
-                    "$type": 3,
-                    29.75,
-                    -9.75,
-                    -3
-                },
-                "endPosition": {
-                    "$type": 3,
-                    35.25,
-                    -8.5,
-                    -3
-                }
-            },
-            {
-                "$id": 82,
-                "$type": 2,
-                "active": true,
+                "id": 4,
+                "teamID": 4,
                 "position": {
                     "$type": 3,
-                    -27.0468349,
-                    28.4610481,
+                    -11.75,
+                    8.75,
                     0
-                },
-                "scale": {
-                    "$type": 3,
-                    3,
-                    2,
-                    2
-                },
-                "rotation": {
-                    "$type": 4,
-                    0,
-                    0,
-                    0.382683456,
-                    0.9238795
                 }
             },
             {
-                "$id": 83,
-                "$type": 2,
+                "$id": 85,
+                "$type": 6,
                 "active": true,
+                "id": 5,
+                "teamID": 5,
                 "position": {
                     "$type": 3,
-                    27.4003868,
-                    28.46105,
-                    -3
-                },
-                "scale": {
+                    13.25,
+                    8.75,
+                    0
+                }
+            },
+            {
+                "$id": 86,
+                "$type": 6,
+                "active": true,
+                "id": 6,
+                "teamID": 6,
+                "position": {
                     "$type": 3,
-                    3,
-                    2,
-                    2
-                },
-                "rotation": {
-                    "$type": 4,
-                    0,
-                    0,
-                    -0.382683456,
-                    0.9238795
+                    -12,
+                    -6,
+                    0
+                }
+            },
+            {
+                "$id": 87,
+                "$type": 6,
+                "active": true,
+                "id": 7,
+                "teamID": 7,
+                "position": {
+                    "$type": 3,
+                    13.5,
+                    -6.25,
+                    0
                 }
             }
         ]

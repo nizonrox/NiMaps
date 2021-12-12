@@ -1,12 +1,12 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "9c7f75f3-35d9-4b16-a715-316384624df2",
+    "id": "3e301675-9aa3-44ac-8447-ce10cb091a65",
     "name": "Ni_SmashArena",
     "mapObjects": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
-        "$rlength": 52,
+        "$rlength": 56,
         "$rcontent": [
             {
                 "$id": 2,
@@ -1210,6 +1210,58 @@
                     0,
                     0,
                     1
+                }
+            },
+            {
+                "$id": 54,
+                "$type": 5,
+                "active": true,
+                "id": 4,
+                "teamID": 4,
+                "position": {
+                    "$type": 3,
+                    -16.75,
+                    -14.25,
+                    0
+                }
+            },
+            {
+                "$id": 55,
+                "$type": 5,
+                "active": true,
+                "id": 5,
+                "teamID": 5,
+                "position": {
+                    "$type": 3,
+                    -3.75,
+                    2.25,
+                    0
+                }
+            },
+            {
+                "$id": 56,
+                "$type": 5,
+                "active": true,
+                "id": 6,
+                "teamID": 6,
+                "position": {
+                    "$type": 3,
+                    4,
+                    2.25,
+                    0
+                }
+            },
+            {
+                "$id": 57,
+                "$type": 5,
+                "active": true,
+                "id": 7,
+                "teamID": 7,
+                "position": {
+                    "$type": 3,
+                    16.5,
+                    -14,
+                    0
                 }
             }
         ]
