@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "a0fae6d7-5eca-4dca-b027-f44172ddc64c",
+    "id": "138c48fd-2b65-46bf-a886-6c93f4ab171e",
     "name": "Ni_Escalator",
     "mapObjects": {
         "$id": 1,
@@ -87,13 +87,13 @@
                 "position": {
                     "$type": 3,
                     19.25,
-                    -18.75,
+                    -20,
                     -3
                 },
                 "scale": {
                     "$type": 3,
                     33,
-                    2,
+                    4.5,
                     2
                 },
                 "rotation": {
@@ -567,13 +567,13 @@
                 "position": {
                     "$type": 3,
                     -29.5,
-                    -19,
+                    -19.375,
                     -3
                 },
                 "scale": {
                     "$type": 3,
                     12,
-                    2,
+                    2.75,
                     2
                 },
                 "rotation": {
