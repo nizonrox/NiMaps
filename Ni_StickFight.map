@@ -1,12 +1,12 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "abb61e90-c324-44f3-9c94-949f6b996de9",
+    "id": "f854fe59-e550-48a3-ae48-c4505e80086b",
     "name": "Ni_StickFight",
     "mapObjects": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[MapsExt.MapObjects.MapObject, MapsExtended]], mscorlib",
-        "$rlength": 62,
+        "$rlength": 64,
         "$rcontent": [
             {
                 "$id": 2,
@@ -422,13 +422,13 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    -21.129982,
-                    -5.238755,
+                    -20.9704514,
+                    -5.83412647,
                     -3
                 },
                 "scale": {
                     "$type": 3,
-                    3,
+                    1.76725483,
                     0.75,
                     2
                 },
@@ -446,8 +446,8 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    20.9765339,
-                    -5.75005531,
+                    21.0432,
+                    -5.81672144,
                     -3
                 },
                 "scale": {
@@ -880,14 +880,14 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    -23.14207,
-                    -2.64447451,
+                    -22.6008034,
+                    -2.95697451,
                     -3
                 },
                 "scale": {
                     "$type": 3,
                     0.75,
-                    1.25,
+                    2.5,
                     2
                 },
                 "rotation": {
@@ -1096,14 +1096,14 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    -18.5,
-                    -9,
+                    -18.575,
+                    -9.066666,
                     -3
                 },
                 "scale": {
                     "$type": 3,
-                    5,
-                    8.5,
+                    4.84999847,
+                    8.366667,
                     2
                 },
                 "rotation": {
@@ -1120,14 +1120,14 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    18,
-                    -9.25,
+                    18.125,
+                    -9.5,
                     -3
                 },
                 "scale": {
                     "$type": 3,
-                    4.5,
-                    10,
+                    4.25,
+                    9.5,
                     2
                 },
                 "rotation": {
@@ -1234,6 +1234,82 @@
             },
             {
                 "$id": 56,
+                "$type": 2,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    20.625,
+                    -8,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    0.75,
+                    6.5,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 57,
+                "$type": 5,
+                "active": true,
+                "id": 4,
+                "teamID": 4,
+                "position": {
+                    "$type": 3,
+                    -17.75,
+                    -1.25,
+                    0
+                }
+            },
+            {
+                "$id": 58,
+                "$type": 5,
+                "active": true,
+                "id": 5,
+                "teamID": 5,
+                "position": {
+                    "$type": 3,
+                    17.75,
+                    -1.75,
+                    0
+                }
+            },
+            {
+                "$id": 59,
+                "$type": 5,
+                "active": true,
+                "id": 6,
+                "teamID": 6,
+                "position": {
+                    "$type": 3,
+                    -5.25,
+                    9,
+                    0
+                }
+            },
+            {
+                "$id": 60,
+                "$type": 5,
+                "active": true,
+                "id": 7,
+                "teamID": 7,
+                "position": {
+                    "$type": 3,
+                    4.5,
+                    9.5,
+                    0
+                }
+            },
+            {
+                "$id": 61,
                 "$type": "7|MapsExt.MapObjects.Box, MapsExtended",
                 "active": true,
                 "position": {
@@ -1257,7 +1333,7 @@
                 }
             },
             {
-                "$id": 57,
+                "$id": 62,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -1281,7 +1357,7 @@
                 }
             },
             {
-                "$id": 58,
+                "$id": 63,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -1305,19 +1381,19 @@
                 }
             },
             {
-                "$id": 59,
+                "$id": 64,
                 "$type": 2,
                 "active": true,
                 "position": {
                     "$type": 3,
-                    20.625,
-                    -7.875,
+                    15.875,
+                    -10.875,
                     -3
                 },
                 "scale": {
                     "$type": 3,
-                    0.75,
-                    6.75,
+                    0.25,
+                    5.75,
                     2
                 },
                 "rotation": {
@@ -1329,55 +1405,27 @@
                 }
             },
             {
-                "$id": 60,
-                "$type": 5,
+                "$id": 65,
+                "$type": 2,
                 "active": true,
-                "id": 4,
-                "teamID": 4,
                 "position": {
                     "$type": 3,
-                    -17.75,
-                    -1.25,
-                    0
-                }
-            },
-            {
-                "$id": 61,
-                "$type": 5,
-                "active": true,
-                "id": 5,
-                "teamID": 5,
-                "position": {
-                    "$type": 3,
-                    17.75,
-                    -1.75,
-                    0
-                }
-            },
-            {
-                "$id": 62,
-                "$type": 5,
-                "active": true,
-                "id": 6,
-                "teamID": 6,
-                "position": {
-                    "$type": 3,
-                    -5.25,
-                    9,
-                    0
-                }
-            },
-            {
-                "$id": 63,
-                "$type": 5,
-                "active": true,
-                "id": 7,
-                "teamID": 7,
-                "position": {
+                    -16.25,
+                    -10.875,
+                    -3
+                },
+                "scale": {
                     "$type": 3,
                     4.5,
-                    9.5,
-                    0
+                    0.75,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0.7071068,
+                    0.7071068
                 }
             }
         ]
