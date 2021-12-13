@@ -1,5 +1,6 @@
 # NiMaps
-ROUNDS Custom maps (Focusing on Deathmatch compatibilty)
+ROUNDS Custom maps (Focusing on Deathmatch compatibilty)<br>
+Current number of maps : 17
 
 # ChangeLog
 **1.3.1** </br>
@@ -19,15 +20,13 @@ All maps fittet for 8 Spawns.</br>
 
 **1.1.0** </br>
 **Ni_Escalator** - Added another passage from top layer and bottom layer.</br>
-**Ni_Pendulum** - Added 1 more rope to each breakable passage, Added protection to hidden props above.</br>
+**Ni_Pendulum** - Added 1 more rope to each breakable passage, *Added protection to hidden props above.*</br>
 **Ni_StickFight** - Fixed spawns being swapped.</br>
 **Ni_Rooftops** - Added passages for each of the further spawns.</br>
 **Ni_Rotation** - Removing broken stuff, fixing spawn locations.</br>
 
 **1.0.0**
 Initial Release
-
-
 
 # Credits / Stolen assets / Thanks for letting me take it :)
 Ni_StickFight  | Fishermen-FishMaps Monkey</br>
