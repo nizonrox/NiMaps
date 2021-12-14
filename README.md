@@ -1,6 +1,6 @@
 # NiMaps
 ROUNDS Custom maps (Focusing on Deathmatch compatibilty)<br>
-Current number of maps : 17
+Current number of maps : 18
 
 # ChangeLog
 **1.3.1** </br>
@@ -12,6 +12,7 @@ All maps fittet for 8 Spawns.</br>
 **Ni_TableFight** - Move table down to encourage more combat, Made 2 platforms for more spawn points.</br>
 **Ni_3Level** - Made from Ni_Town_E1 to make it encourage better gameplay.</br>
 **Ni_Tower** - Ni_Town_E2 prop overhaul, Extended platforms at the bottom under the map.</br>
+**Ni_PainBall** - New map trying out saw mechanics.</br>
 
 
 **1.2.0** </br>
