@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "e93f83d9-0b62-4c00-b7e0-212c9dfbbfff",
+    "id": "56c43a98-6906-439c-a5ee-7495f0d0462d",
     "name": "Ni_PainBall",
     "mapObjects": {
         "$id": 1,
@@ -111,13 +111,13 @@
                 "position": {
                     "$type": 3,
                     -1.125,
-                    18.75,
+                    18.625,
                     -3
                 },
                 "scale": {
                     "$type": 3,
                     0.25,
-                    3,
+                    3.25,
                     2
                 },
                 "rotation": {
