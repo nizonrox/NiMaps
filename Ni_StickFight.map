@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "f854fe59-e550-48a3-ae48-c4505e80086b",
+    "id": "71483c4b-5703-4fbf-9024-53910dfe4f27",
     "name": "Ni_StickFight",
     "mapObjects": {
         "$id": 1,
@@ -1290,8 +1290,8 @@
                 "teamID": 6,
                 "position": {
                     "$type": 3,
-                    -5.25,
-                    9,
+                    -4,
+                    -8.5,
                     0
                 }
             },
@@ -1303,85 +1303,13 @@
                 "teamID": 7,
                 "position": {
                     "$type": 3,
-                    4.5,
-                    9.5,
+                    3.75,
+                    -8.5,
                     0
                 }
             },
             {
                 "$id": 61,
-                "$type": "7|MapsExt.MapObjects.Box, MapsExtended",
-                "active": true,
-                "position": {
-                    "$type": 3,
-                    -8.74999,
-                    4.64356136,
-                    -3
-                },
-                "scale": {
-                    "$type": 3,
-                    15.25,
-                    2,
-                    2
-                },
-                "rotation": {
-                    "$type": 4,
-                    0,
-                    0,
-                    0.1305262,
-                    0.9914449
-                }
-            },
-            {
-                "$id": 62,
-                "$type": 7,
-                "active": true,
-                "position": {
-                    "$type": 3,
-                    8.267027,
-                    4.77297068,
-                    -3
-                },
-                "scale": {
-                    "$type": 3,
-                    15.5,
-                    2,
-                    2
-                },
-                "rotation": {
-                    "$type": 4,
-                    0,
-                    0,
-                    -0.1305262,
-                    0.9914449
-                }
-            },
-            {
-                "$id": 63,
-                "$type": 7,
-                "active": true,
-                "position": {
-                    "$type": 3,
-                    0,
-                    -11.75,
-                    -3
-                },
-                "scale": {
-                    "$type": 3,
-                    12.75,
-                    2,
-                    2
-                },
-                "rotation": {
-                    "$type": 4,
-                    0,
-                    0,
-                    0,
-                    1
-                }
-            },
-            {
-                "$id": 64,
                 "$type": 2,
                 "active": true,
                 "position": {
@@ -1405,7 +1333,7 @@
                 }
             },
             {
-                "$id": 65,
+                "$id": 62,
                 "$type": 2,
                 "active": true,
                 "position": {
@@ -1426,6 +1354,78 @@
                     0,
                     0.7071068,
                     0.7071068
+                }
+            },
+            {
+                "$id": 63,
+                "$type": "7|MapsExt.MapObjects.Box, MapsExtended",
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    -8.74999,
+                    4.64356136,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    15.25,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0.1305262,
+                    0.9914449
+                }
+            },
+            {
+                "$id": 64,
+                "$type": 7,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    8.267027,
+                    4.77297068,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    15.5,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    -0.1305262,
+                    0.9914449
+                }
+            },
+            {
+                "$id": 65,
+                "$type": 7,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    0,
+                    -11.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    12.75,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
                 }
             }
         ]

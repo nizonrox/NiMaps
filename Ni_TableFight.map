@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "d9f079a5-30f3-44bd-b483-5a26c67214ae",
+    "id": "1a55890d-85ee-4f65-bd2f-5a6d319a4c0b",
     "name": "Ni_TableFight",
     "mapObjects": {
         "$id": 1,
@@ -468,8 +468,8 @@
                 "teamID": 4,
                 "position": {
                     "$type": 3,
-                    29,
-                    2.25,
+                    -29.75,
+                    2,
                     0
                 }
             },
@@ -481,8 +481,8 @@
                 "teamID": 5,
                 "position": {
                     "$type": 3,
-                    -29.75,
-                    2.25,
+                    29,
+                    2,
                     0
                 }
             },
@@ -514,6 +514,40 @@
             },
             {
                 "$id": 29,
+                "$type": 5,
+                "active": true,
+                "startPosition": {
+                    "$type": 3,
+                    -18.25,
+                    -7.5,
+                    -3
+                },
+                "endPosition": {
+                    "$type": 3,
+                    -14.5,
+                    -22.25,
+                    -3
+                }
+            },
+            {
+                "$id": 30,
+                "$type": 5,
+                "active": true,
+                "startPosition": {
+                    "$type": 3,
+                    18,
+                    -7.5,
+                    -3
+                },
+                "endPosition": {
+                    "$type": 3,
+                    14.25,
+                    -22.25,
+                    -3
+                }
+            },
+            {
+                "$id": 31,
                 "$type": "7|MapsExt.MapObjects.Box, MapsExtended",
                 "active": true,
                 "position": {
@@ -537,7 +571,7 @@
                 }
             },
             {
-                "$id": 30,
+                "$id": 32,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -561,7 +595,7 @@
                 }
             },
             {
-                "$id": 31,
+                "$id": 33,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -585,7 +619,7 @@
                 }
             },
             {
-                "$id": 32,
+                "$id": 34,
                 "$type": "8|MapsExt.MapObjects.BoxDestructible, MapsExtended",
                 "active": true,
                 "position": {
@@ -609,7 +643,7 @@
                 }
             },
             {
-                "$id": 33,
+                "$id": 35,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -630,40 +664,6 @@
                     0,
                     0,
                     1
-                }
-            },
-            {
-                "$id": 34,
-                "$type": 5,
-                "active": true,
-                "startPosition": {
-                    "$type": 3,
-                    -18.25,
-                    -7.5,
-                    -3
-                },
-                "endPosition": {
-                    "$type": 3,
-                    -14.5,
-                    -22.25,
-                    -3
-                }
-            },
-            {
-                "$id": 35,
-                "$type": 5,
-                "active": true,
-                "startPosition": {
-                    "$type": 3,
-                    18,
-                    -7.5,
-                    -3
-                },
-                "endPosition": {
-                    "$type": 3,
-                    14.25,
-                    -22.25,
-                    -3
                 }
             }
         ]

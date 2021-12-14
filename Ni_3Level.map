@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "a299f482-1ebc-4e97-8e30-ee4e63a265b5",
+    "id": "db73250a-709e-4d5f-8b93-f5cb1aa03d88",
     "name": "Ni_3Level",
     "mapObjects": {
         "$id": 1,
@@ -88,8 +88,8 @@
                 "teamID": 0,
                 "position": {
                     "$type": 3,
-                    25.5,
-                    -1.75,
+                    -28.25,
+                    -6.75,
                     0
                 }
             },
@@ -546,8 +546,8 @@
                 "teamID": 1,
                 "position": {
                     "$type": 3,
-                    -27.75,
-                    -6.5,
+                    26.25,
+                    -1.75,
                     0
                 }
             },
@@ -572,8 +572,8 @@
                 "teamID": 3,
                 "position": {
                     "$type": 3,
-                    17,
-                    8.25,
+                    19.5,
+                    -18,
                     0
                 }
             },
@@ -585,8 +585,8 @@
                 "teamID": 4,
                 "position": {
                     "$type": 3,
-                    20,
-                    -18,
+                    -24,
+                    8.5,
                     0
                 }
             },
@@ -598,7 +598,7 @@
                 "teamID": 5,
                 "position": {
                     "$type": 3,
-                    -24.25,
+                    16.25,
                     8.5,
                     0
                 }

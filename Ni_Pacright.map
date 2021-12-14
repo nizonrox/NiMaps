@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "f5a8126d-d651-461c-9b0d-21b4df7603e5",
+    "id": "e800b6b5-a185-44df-89a1-ba7113f21933",
     "name": "Ni_Pacright",
     "mapObjects": {
         "$id": 1,
@@ -2429,8 +2429,8 @@
                 "teamID": 1,
                 "position": {
                     "$type": 3,
-                    33,
-                    11.25,
+                    17.25,
+                    4,
                     0
                 }
             },
@@ -2455,8 +2455,8 @@
                 "teamID": 3,
                 "position": {
                     "$type": 3,
-                    17,
-                    3.75,
+                    33,
+                    12.25,
                     0
                 }
             },
@@ -2468,8 +2468,8 @@
                 "teamID": 4,
                 "position": {
                     "$type": 3,
-                    -12,
-                    11.5,
+                    -33,
+                    -10.25,
                     0
                 }
             },
@@ -2488,39 +2488,13 @@
             },
             {
                 "$id": 108,
-                "$type": 5,
-                "active": true,
-                "id": 6,
-                "teamID": 6,
-                "position": {
-                    "$type": 3,
-                    -33,
-                    -10,
-                    0
-                }
-            },
-            {
-                "$id": 109,
-                "$type": 5,
-                "active": true,
-                "id": 7,
-                "teamID": 7,
-                "position": {
-                    "$type": 3,
-                    9.75,
-                    -14,
-                    0
-                }
-            },
-            {
-                "$id": 110,
                 "$type": 2,
                 "active": true,
                 "position": {
                     "$type": 3,
                     1.04166985,
                     19.75,
-                    0
+                    -3
                 },
                 "scale": {
                     "$type": 3,
@@ -2537,7 +2511,7 @@
                 }
             },
             {
-                "$id": 111,
+                "$id": 109,
                 "$type": 2,
                 "active": true,
                 "position": {
@@ -2558,6 +2532,32 @@
                     0,
                     0,
                     1
+                }
+            },
+            {
+                "$id": 110,
+                "$type": 5,
+                "active": true,
+                "id": 6,
+                "teamID": 6,
+                "position": {
+                    "$type": 3,
+                    -12,
+                    11.75,
+                    0
+                }
+            },
+            {
+                "$id": 111,
+                "$type": 5,
+                "active": true,
+                "id": 7,
+                "teamID": 7,
+                "position": {
+                    "$type": 3,
+                    9.5,
+                    -14,
+                    0
                 }
             }
         ]

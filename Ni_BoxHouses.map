@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "eea9667a-1cd8-41bc-83d5-1af3f0e6d0e6",
+    "id": "1163ad2f-d932-45fa-ab10-541586fbc196",
     "name": "Ni_BoxHouses",
     "mapObjects": {
         "$id": 1,
@@ -66,8 +66,8 @@
                 "teamID": 2,
                 "position": {
                     "$type": 3,
-                    31.25,
-                    -15.5,
+                    -31.25,
+                    -15.75,
                     0
                 }
             },
@@ -79,7 +79,7 @@
                 "teamID": 3,
                 "position": {
                     "$type": 3,
-                    -31,
+                    31.75,
                     -15.75,
                     0
                 }

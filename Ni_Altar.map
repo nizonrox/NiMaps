@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "3e0852e3-6d13-4cf8-b948-8f1ccc249e7a",
+    "id": "99c690ca-f7e7-490b-a10d-894c5b973e9b",
     "name": "Ni_Altar",
     "mapObjects": {
         "$id": 1,
@@ -592,39 +592,13 @@
                 "teamID": 0,
                 "position": {
                     "$type": 3,
-                    24.5,
+                    -24.25,
                     4.75,
                     0
                 }
             },
             {
                 "$id": 27,
-                "$type": 6,
-                "active": true,
-                "id": 1,
-                "teamID": 1,
-                "position": {
-                    "$type": 3,
-                    -30.5,
-                    -6.5,
-                    0
-                }
-            },
-            {
-                "$id": 28,
-                "$type": 6,
-                "active": true,
-                "id": 2,
-                "teamID": 2,
-                "position": {
-                    "$type": 3,
-                    28.5,
-                    -6,
-                    0
-                }
-            },
-            {
-                "$id": 29,
                 "$type": 2,
                 "active": true,
                 "position": {
@@ -648,7 +622,7 @@
                 }
             },
             {
-                "$id": 30,
+                "$id": 28,
                 "$type": 2,
                 "active": true,
                 "position": {
@@ -672,72 +646,7 @@
                 }
             },
             {
-                "$id": 31,
-                "$type": 6,
-                "active": true,
-                "id": 3,
-                "teamID": 3,
-                "position": {
-                    "$type": 3,
-                    -14.25,
-                    5,
-                    0
-                }
-            },
-            {
-                "$id": 32,
-                "$type": 6,
-                "active": true,
-                "id": 4,
-                "teamID": 4,
-                "position": {
-                    "$type": 3,
-                    -10.75,
-                    -6.25,
-                    0
-                }
-            },
-            {
-                "$id": 33,
-                "$type": 6,
-                "active": true,
-                "id": 5,
-                "teamID": 5,
-                "position": {
-                    "$type": 3,
-                    14.25,
-                    5,
-                    0
-                }
-            },
-            {
-                "$id": 34,
-                "$type": 6,
-                "active": true,
-                "id": 6,
-                "teamID": 6,
-                "position": {
-                    "$type": 3,
-                    11.5,
-                    -6,
-                    0
-                }
-            },
-            {
-                "$id": 35,
-                "$type": 6,
-                "active": true,
-                "id": 7,
-                "teamID": 7,
-                "position": {
-                    "$type": 3,
-                    -24.5,
-                    4.75,
-                    0
-                }
-            },
-            {
-                "$id": 36,
+                "$id": 29,
                 "$type": "7|MapsExt.MapObjects.Box, MapsExtended",
                 "active": true,
                 "position": {
@@ -761,7 +670,7 @@
                 }
             },
             {
-                "$id": 37,
+                "$id": 30,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -785,7 +694,7 @@
                 }
             },
             {
-                "$id": 38,
+                "$id": 31,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -809,7 +718,7 @@
                 }
             },
             {
-                "$id": 39,
+                "$id": 32,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -833,7 +742,7 @@
                 }
             },
             {
-                "$id": 40,
+                "$id": 33,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -857,7 +766,7 @@
                 }
             },
             {
-                "$id": 41,
+                "$id": 34,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -881,7 +790,7 @@
                 }
             },
             {
-                "$id": 42,
+                "$id": 35,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -905,7 +814,7 @@
                 }
             },
             {
-                "$id": 43,
+                "$id": 36,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -929,7 +838,7 @@
                 }
             },
             {
-                "$id": 44,
+                "$id": 37,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -953,7 +862,7 @@
                 }
             },
             {
-                "$id": 45,
+                "$id": 38,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -977,7 +886,7 @@
                 }
             },
             {
-                "$id": 46,
+                "$id": 39,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -1001,7 +910,7 @@
                 }
             },
             {
-                "$id": 47,
+                "$id": 40,
                 "$type": 7,
                 "active": true,
                 "position": {
@@ -1022,6 +931,97 @@
                     0,
                     0.5,
                     0.8660254
+                }
+            },
+            {
+                "$id": 41,
+                "$type": 6,
+                "active": true,
+                "id": 1,
+                "teamID": 1,
+                "position": {
+                    "$type": 3,
+                    24.75,
+                    4.75,
+                    0
+                }
+            },
+            {
+                "$id": 42,
+                "$type": 6,
+                "active": true,
+                "id": 2,
+                "teamID": 2,
+                "position": {
+                    "$type": 3,
+                    -24,
+                    -6.5,
+                    0
+                }
+            },
+            {
+                "$id": 43,
+                "$type": 6,
+                "active": true,
+                "id": 3,
+                "teamID": 3,
+                "position": {
+                    "$type": 3,
+                    24.75,
+                    -6.25,
+                    0
+                }
+            },
+            {
+                "$id": 44,
+                "$type": 6,
+                "active": true,
+                "id": 4,
+                "teamID": 4,
+                "position": {
+                    "$type": 3,
+                    -19.75,
+                    14,
+                    0
+                }
+            },
+            {
+                "$id": 45,
+                "$type": 6,
+                "active": true,
+                "id": 5,
+                "teamID": 5,
+                "position": {
+                    "$type": 3,
+                    20.25,
+                    13.75,
+                    0
+                }
+            },
+            {
+                "$id": 46,
+                "$type": 6,
+                "active": true,
+                "id": 6,
+                "teamID": 6,
+                "position": {
+                    "$type": 3,
+                    -13.75,
+                    4.5,
+                    0
+                }
+            },
+            {
+                "$id": 47,
+                "$type": 6,
+                "active": true,
+                "id": 7,
+                "teamID": 7,
+                "position": {
+                    "$type": 3,
+                    15.25,
+                    4.75,
+                    0
                 }
             }
         ]
