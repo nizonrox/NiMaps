@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "e380ec04-0eec-4fa3-bc23-17afa063001a",
+    "id": "45f08a17-f5b4-4fba-b149-2699024fbb60",
     "name": "Ni_Town",
     "mapObjects": {
         "$id": 1,
@@ -263,7 +263,7 @@
                 "endPosition": {
                     "$type": 3,
                     1.50875,
-                    -11.25,
+                    -11.5,
                     -3
                 }
             },
@@ -280,7 +280,7 @@
                 "endPosition": {
                     "$type": 3,
                     0.491250038,
-                    -11.25,
+                    -11.5,
                     -3
                 }
             },
@@ -945,7 +945,7 @@
                 "position": {
                     "$type": 3,
                     1,
-                    -11.25,
+                    -11.5,
                     -3
                 },
                 "scale": {
@@ -969,13 +969,13 @@
                 "position": {
                     "$type": 3,
                     1,
-                    -9.625,
+                    -9.741663,
                     -3
                 },
                 "scale": {
                     "$type": 3,
                     2.5,
-                    2.75,
+                    2.98332977,
                     2
                 },
                 "rotation": {
