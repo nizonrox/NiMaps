@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "2cd5349b-560c-4234-ada9-d76af784a8f8",
+    "id": "0501ff41-aaec-4dd6-a1a8-7cd0b3b0a2c5",
     "name": "Ni_Swing",
     "mapObjects": {
         "$id": 1,
@@ -15,7 +15,7 @@
                 "position": {
                     "$type": "3|UnityEngine.Vector3, UnityEngine.CoreModule",
                     -0.25,
-                    18.5,
+                    21.25,
                     -3
                 },
                 "scale": {
@@ -39,7 +39,7 @@
                 "startPosition": {
                     "$type": 3,
                     -0.25,
-                    18.5,
+                    21.25,
                     -3
                 },
                 "endPosition": {
@@ -1187,8 +1187,8 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    16.75,
-                    -13.75,
+                    16.8055553,
+                    -14.000001,
                     -3
                 },
                 "scale": {
@@ -1211,8 +1211,8 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    16.75,
-                    -15.75,
+                    16.8055553,
+                    -16,
                     -3
                 },
                 "scale": {

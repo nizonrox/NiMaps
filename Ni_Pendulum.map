@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "f4abdbd9-7333-464e-982b-20a4babcc609",
+    "id": "694a6d72-08e2-41e7-b688-923670970df8",
     "name": "Ni_Pendulum",
     "mapObjects": {
         "$id": 1,
@@ -376,8 +376,8 @@
                 },
                 "endPosition": {
                     "$type": 3,
-                    -4.75,
-                    4.5,
+                    -4.461113,
+                    4.53610849,
                     -3
                 }
             },
@@ -393,7 +393,7 @@
                 },
                 "endPosition": {
                     "$type": 3,
-                    -3.75,
+                    -3.497219,
                     4.5,
                     -3
                 }
@@ -932,8 +932,8 @@
                 },
                 "endPosition": {
                     "$type": 3,
-                    21.7500057,
-                    21.2500057,
+                    21.7500076,
+                    21.2500076,
                     -3
                 }
             },
@@ -1168,6 +1168,58 @@
             },
             {
                 "$id": 62,
+                "$type": 6,
+                "active": true,
+                "id": 4,
+                "teamID": 4,
+                "position": {
+                    "$type": 3,
+                    -11.75,
+                    8.75,
+                    0
+                }
+            },
+            {
+                "$id": 63,
+                "$type": 6,
+                "active": true,
+                "id": 5,
+                "teamID": 5,
+                "position": {
+                    "$type": 3,
+                    13.25,
+                    8.75,
+                    0
+                }
+            },
+            {
+                "$id": 64,
+                "$type": 6,
+                "active": true,
+                "id": 6,
+                "teamID": 6,
+                "position": {
+                    "$type": 3,
+                    -12,
+                    -6,
+                    0
+                }
+            },
+            {
+                "$id": 65,
+                "$type": 6,
+                "active": true,
+                "id": 7,
+                "teamID": 7,
+                "position": {
+                    "$type": 3,
+                    13.5,
+                    -6.25,
+                    0
+                }
+            },
+            {
+                "$id": 66,
                 "$type": "8|MapsExt.MapObjects.BoxDestructible, MapsExtended",
                 "active": true,
                 "position": {
@@ -1191,7 +1243,7 @@
                 }
             },
             {
-                "$id": 63,
+                "$id": 67,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -1215,7 +1267,7 @@
                 }
             },
             {
-                "$id": 64,
+                "$id": 68,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -1239,7 +1291,7 @@
                 }
             },
             {
-                "$id": 65,
+                "$id": 69,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -1263,7 +1315,7 @@
                 }
             },
             {
-                "$id": 66,
+                "$id": 70,
                 "$type": "9|MapsExt.MapObjects.Box, MapsExtended",
                 "active": true,
                 "position": {
@@ -1287,7 +1339,7 @@
                 }
             },
             {
-                "$id": 67,
+                "$id": 71,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1311,7 +1363,7 @@
                 }
             },
             {
-                "$id": 68,
+                "$id": 72,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1335,7 +1387,7 @@
                 }
             },
             {
-                "$id": 69,
+                "$id": 73,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1359,108 +1411,12 @@
                 }
             },
             {
-                "$id": 70,
-                "$type": 9,
-                "active": true,
-                "position": {
-                    "$type": 3,
-                    -1.75,
-                    -15.75,
-                    -3
-                },
-                "scale": {
-                    "$type": 3,
-                    2,
-                    2,
-                    2
-                },
-                "rotation": {
-                    "$type": 4,
-                    0,
-                    0,
-                    0,
-                    1
-                }
-            },
-            {
-                "$id": 71,
-                "$type": 9,
-                "active": true,
-                "position": {
-                    "$type": 3,
-                    -14.25,
-                    -15.75,
-                    -3
-                },
-                "scale": {
-                    "$type": 3,
-                    2,
-                    2,
-                    2
-                },
-                "rotation": {
-                    "$type": 4,
-                    0,
-                    0,
-                    0,
-                    1
-                }
-            },
-            {
-                "$id": 72,
-                "$type": 9,
-                "active": true,
-                "position": {
-                    "$type": 3,
-                    14.5,
-                    -15.75,
-                    -3
-                },
-                "scale": {
-                    "$type": 3,
-                    2,
-                    2,
-                    2
-                },
-                "rotation": {
-                    "$type": 4,
-                    0,
-                    0,
-                    0,
-                    1
-                }
-            },
-            {
-                "$id": 73,
-                "$type": 9,
-                "active": true,
-                "position": {
-                    "$type": 3,
-                    2,
-                    -15.75,
-                    -3
-                },
-                "scale": {
-                    "$type": 3,
-                    2,
-                    2,
-                    2
-                },
-                "rotation": {
-                    "$type": 4,
-                    0,
-                    0,
-                    0,
-                    1
-                }
-            },
-            {
                 "$id": 74,
                 "$type": 9,
                 "active": true,
                 "position": {
                     "$type": 3,
-                    31,
+                    -1.75,
                     -15.75,
                     -3
                 },
@@ -1484,7 +1440,7 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    18.5,
+                    -14.25,
                     -15.75,
                     -3
                 },
@@ -1508,6 +1464,102 @@
                 "active": true,
                 "position": {
                     "$type": 3,
+                    14.5,
+                    -15.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 77,
+                "$type": 9,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    2,
+                    -15.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 78,
+                "$type": 9,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    31,
+                    -15.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 79,
+                "$type": 9,
+                "active": true,
+                "position": {
+                    "$type": 3,
+                    18.5,
+                    -15.75,
+                    -3
+                },
+                "scale": {
+                    "$type": 3,
+                    2,
+                    2,
+                    2
+                },
+                "rotation": {
+                    "$type": 4,
+                    0,
+                    0,
+                    0,
+                    1
+                }
+            },
+            {
+                "$id": 80,
+                "$type": 9,
+                "active": true,
+                "position": {
+                    "$type": 3,
                     -32.75,
                     -1.75,
                     -3
@@ -1527,7 +1579,7 @@
                 }
             },
             {
-                "$id": 77,
+                "$id": 81,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1551,7 +1603,7 @@
                 }
             },
             {
-                "$id": 78,
+                "$id": 82,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1575,7 +1627,7 @@
                 }
             },
             {
-                "$id": 79,
+                "$id": 83,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1599,7 +1651,7 @@
                 }
             },
             {
-                "$id": 80,
+                "$id": 84,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -1623,7 +1675,7 @@
                 }
             },
             {
-                "$id": 81,
+                "$id": 85,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1647,7 +1699,7 @@
                 }
             },
             {
-                "$id": 82,
+                "$id": 86,
                 "$type": 8,
                 "active": true,
                 "position": {
@@ -1671,7 +1723,7 @@
                 }
             },
             {
-                "$id": 83,
+                "$id": 87,
                 "$type": 9,
                 "active": true,
                 "position": {
@@ -1692,58 +1744,6 @@
                     0,
                     -0.382683456,
                     0.9238795
-                }
-            },
-            {
-                "$id": 84,
-                "$type": 6,
-                "active": true,
-                "id": 4,
-                "teamID": 4,
-                "position": {
-                    "$type": 3,
-                    -11.75,
-                    8.75,
-                    0
-                }
-            },
-            {
-                "$id": 85,
-                "$type": 6,
-                "active": true,
-                "id": 5,
-                "teamID": 5,
-                "position": {
-                    "$type": 3,
-                    13.25,
-                    8.75,
-                    0
-                }
-            },
-            {
-                "$id": 86,
-                "$type": 6,
-                "active": true,
-                "id": 6,
-                "teamID": 6,
-                "position": {
-                    "$type": 3,
-                    -12,
-                    -6,
-                    0
-                }
-            },
-            {
-                "$id": 87,
-                "$type": 6,
-                "active": true,
-                "id": 7,
-                "teamID": 7,
-                "position": {
-                    "$type": 3,
-                    13.5,
-                    -6.25,
-                    0
                 }
             }
         ]
