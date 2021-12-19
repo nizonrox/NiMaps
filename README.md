@@ -3,6 +3,13 @@ ROUNDS Custom maps (Focusing on Deathmatch compatibilty)<br>
 Current number of maps : 18
 
 # ChangeLog
+
+**1.3.2** </br>
+**Ni_Pacright** - Added ways of closing off the sides to discurage running around in a circle.</br>
+**Ni_TableFight** - Added blocks under the map to stabelize table, moved spawn points around to encurage healthy gameplay.</br>
+**Ni_Town** - Extended bottom block as a quality of life.</br>
+**Ni_Trapped** - Added more space in the top part, visual improvmenmts at the top of the map aswell.</br>
+
 **1.3.1** </br>
 All maps fittet for 8 Spawns.</br>
 **Ni_Kidneystones** - Added 2 Platforms for more cover.</br>
@@ -13,7 +20,6 @@ All maps fittet for 8 Spawns.</br>
 **Ni_3Level** - Made from Ni_Town_E1 to make it encourage better gameplay.</br>
 **Ni_Tower** - Ni_Town_E2 prop overhaul, Extended platforms at the bottom under the map.</br>
 **Ni_PainBall** - New map trying out saw mechanics.</br>
-
 
 **1.2.0** </br>
 **Ni_BoxHouses** - Aligned middle, Extended platforms at the bottom so you dont get stuck under them by mistake.</br>
