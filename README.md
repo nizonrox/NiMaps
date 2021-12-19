@@ -6,9 +6,11 @@ Current number of maps : 18
 
 **1.3.2** </br>
 **Ni_Pacright** - Added ways of closing off the sides to discurage running around in a circle.</br>
-**Ni_TableFight** - Added blocks under the map to stabelize table, moved spawn points around to encurage healthy gameplay.</br>
+**Ni_TableFight** - Stabelized table, moved spawn points around to encurage healthy gameplay.</br>
 **Ni_Town** - Extended bottom block as a quality of life.</br>
-**Ni_Trapped** - Added more space in the top part, visual improvmenmts at the top of the map aswell.</br>
+**Ni_Trapped** - Added more space in the top part, visual improvements at the top of the map aswell.</br>
+**Ni_Swing** - Minor prop tweaks, moved rope point from the swing outta map.</br>
+**Ni_Pendulum** - Minor tweak to the middle pendulums.</br>
 
 **1.3.1** </br>
 All maps fittet for 8 Spawns.</br>
