@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "id": "fe5093d3-4ab6-4670-99d4-3b8a4d29de78",
+    "id": "e0c7ecba-f02e-477f-930a-450cd7e40e56",
     "name": "Ni_SmashArena",
     "mapObjects": {
         "$id": 1,
@@ -86,7 +86,7 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    9.5,
+                    11.25,
                     -5.625,
                     -3
                 },
@@ -110,7 +110,7 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    -10,
+                    -11.25,
                     -5.625,
                     -3
                 },
@@ -982,7 +982,7 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    -10.25,
+                    -11.5,
                     -4.25,
                     -3
                 },
@@ -1006,7 +1006,7 @@
                 "active": true,
                 "position": {
                     "$type": 3,
-                    9.5,
+                    11.25,
                     -4.25,
                     -3
                 },
