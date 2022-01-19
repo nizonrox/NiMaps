@@ -3,6 +3,10 @@ ROUNDS Custom maps (Focusing on Deathmatch compatibilty)<br>
 Current number of maps : 19
 
 # ChangeLog
+**1.4.3** </br>
+**Ni_Rooftops** - Even'ed out front buildings from each side, removed props too far under map, added prop to fix falling under buildings.</br>
+**Ni_SmashArena** - Moved 2 bottom floating platforms more outward for more fun interactions.</br>
+**Ni_StickFight** - Minor fixes for stuff not being same length on both sides and looks.</br>
 
 **1.4.2** </br>
 **Ni_Pacright** - Added ways of closing off the sides to discurage running around in a circle.</br>
